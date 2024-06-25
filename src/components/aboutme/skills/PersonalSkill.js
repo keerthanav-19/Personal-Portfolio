@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import { Container,Row,Col } from 'react-bootstrap';
+import { Container,Row } from 'react-bootstrap';
 import LightSpeed from 'react-reveal/LightSpeed';
 
 export default function PersonalSkill() {
